@@ -1,2 +1,2 @@
 # Arkanoid
-Código del sexto trabajo realizado en Tokio School.
+Código del séptimo trabajo realizado en Tokio School.
